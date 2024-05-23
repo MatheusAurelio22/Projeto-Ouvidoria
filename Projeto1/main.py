@@ -77,5 +77,3 @@ while opcao != 7:
     else:
         print("Opção inválida, por favor escolha um opção válida")
 
-print("Loucura")
-
